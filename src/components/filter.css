@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+    margin-top: 60px;
+}
+.userli{
+    border: 1px solid gray;
+    background-color: rgb(113, 113, 195);
+    color: white;
+    width: 200px;
+    height: 110px;
+    padding: 20px 10px;
+}
